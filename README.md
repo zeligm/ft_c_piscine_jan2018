@@ -1,10 +1,6 @@
 # 42_piscine_jan18
 I did my piscine on january 2018, in the Fremont, California campus of École 42. Here is the daily workload, weekend projects -rushes &amp; solo- and exam questions (lvl 0, 1, 2 &amp; 3). To future pisciners who may find and use this code:
 
--Everything is Normed.
-
--Almost everything passes Stupidity (if you don't know what Stupidity is while you are doing your piscine and intend to beat Moulinette, do yourself a favor, google it and USE IT).
-
 -Code this on your own, your skill as a coder will thank you for it.
 
 -Regarding the exam question base, you are supposed to be able to code it without help/internet, so study it.
