@@ -3,7 +3,7 @@ I did my piscine on january 2018, in the Fremont, California campus of École 42
 
 -Everything is Normed.
 
--Almost everything passes Stupidity (if you don't know what Stupidity is while you are doing your piscine and intend to beat Moulinette, do yourself a favor, google it and USE IT.
+-Almost everything passes Stupidity (if you don't know what Stupidity is while you are doing your piscine and intend to beat Moulinette, do yourself a favor, google it and USE IT).
 
 -Don't use my header if you don't want your code flagged, nobody likes a -42 as a grade.
 
