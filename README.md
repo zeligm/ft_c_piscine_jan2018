@@ -1,4 +1,4 @@
-# 42_piscine_jan18
+# ft_42_c_piscine_jan2018
 I did my piscine on january 2018, in the Fremont, California campus of École 42. Here is the daily workload, weekend projects -rushes &amp; solo- and exam questions (lvl 0, 1, 2 &amp; 3). To future pisciners who may find and use this code:
 
 -Code this on your own, your skill as a coder will thank you for it.
